@@ -48,3 +48,20 @@ C:\Users\Gallu\OneDrive\Desktop\מדעי המחשב\שנה א\'סמסטר ב\C++
 C:\Users\Gallu\OneDrive\Desktop\מדעי המחשב\שנה א\'סמסטר ב\C++\ZombieApp\obj\Debug\ZombieApp.csproj.CoreCompileInputs.cache
 C:\Users\Gallu\OneDrive\Desktop\מדעי המחשב\שנה א\'סמסטר ב\C++\ZombieApp\obj\Debug\ZombieApp.exe
 C:\Users\Gallu\OneDrive\Desktop\מדעי המחשב\שנה א\'סמסטר ב\C++\ZombieApp\obj\Debug\ZombieApp.pdb
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\bin\Debug\ZombieApp.exe.config
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\bin\Debug\ZombieApp.exe
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\bin\Debug\ZombieApp.pdb
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\obj\Debug\ZombieApp.csproj.AssemblyReference.cache
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\obj\Debug\ZombieApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\obj\Debug\ZombieApp.csproj.ResolveComReference.cache
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\obj\Debug\ZombieApp.Form1.resources
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\obj\Debug\ZombieApp.FormLabel.resources
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\obj\Debug\ZombieApp.Properties.Resources.resources
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\obj\Debug\ZombieApp.csproj.GenerateResource.cache
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\obj\Debug\ZombieApp.csproj.CoreCompileInputs.cache
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\obj\Debug\ZombieApp.exe
+C:\Users\Gallu\OneDrive\Desktop\ZombieApp\obj\Debug\ZombieApp.pdb
